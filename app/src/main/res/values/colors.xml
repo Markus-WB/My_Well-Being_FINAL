@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1976D2</color> <!-- Azul primario -->
+    <color name="colorPrimaryVariant">#1565C0</color> <!-- Variante del azul primario -->
+    <color name="colorOnPrimary">#FFFFFF</color> <!-- Color del texto en azul primario -->
+    <color name="colorSecondary">#03A9F4</color> <!-- Azul secundario -->
+    <color name="colorSecondaryVariant">#0288D1</color> <!-- Variante del azul secundario -->
+    <color name="colorOnSecondary">#000000</color> <!-- Color del texto en azul secundario -->
+</resources>
